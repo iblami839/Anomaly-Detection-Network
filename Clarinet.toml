@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.anomaly-reports]
+path = 'contracts/anomaly-reports.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.observation-data]
 path = 'contracts/observation-data.clar'
 clarity_version = 2

@@ -9,3 +9,5 @@ O
 contracts/observation-data.clar,e/2/e2e7b001ef179947959beeb8ab4db4ce1cc297d7
 N
 tests/observation-data.test.ts,2/0/20f3450ea6ff0cf804b8d2011e71b22ab1fd9ace
+N
+contracts/anomaly-reports.clar,c/7/c7fd0b342457140898d61bceda4ee79095fa46ea
