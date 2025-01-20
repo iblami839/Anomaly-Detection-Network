@@ -7,3 +7,5 @@ Q
 !tests/universe-parameters.test.ts,d/5/d5602f36a1ab99921f50d069df2a42749d5e7fd2
 O
 contracts/observation-data.clar,e/2/e2e7b001ef179947959beeb8ab4db4ce1cc297d7
+N
+tests/observation-data.test.ts,2/0/20f3450ea6ff0cf804b8d2011e71b22ab1fd9ace
